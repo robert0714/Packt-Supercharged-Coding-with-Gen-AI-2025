@@ -1,0 +1,2 @@
+# 3 A Guide to GitHub Copilot with PyCharm, VS Code, and Jupyter Notebook
+GitHub Copilot, an **AI pair programmer**, is enabling developers to supercharge their coding abilities and write code more efficiently. The application uses an underlying **large language model (LLM)** designed specifically for code completion tasks, code analysis, and chat for coding-related tasks.
